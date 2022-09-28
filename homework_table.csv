@@ -1,0 +1,15 @@
+date,customer_name,service_name,price_paid
+2021-01-01,Andrew,Cable TV,5000.0
+2021-02-02,Brad,cabletv,5000.0
+2021-03-03,Charlie,Cable TV,5000.0
+2021-02-05,Dan,ISP,6000.0
+2021-02-18,Eric,ISP,6000.0
+2021-10-09,Felix,ISP,6000.0
+2021-09-10,Gerald,isp,6000.0
+2022-03-10,Hubert,Cable TV,5000.0
+2022-04-12,Isaac,i.s.p,6000.0
+2022-04-15,Jason,ISp,
+2022-05-23,Karen,Cable T.V,
+2022-06-23,Leah,ISP,6000.0
+2022-05-17,Marie,Cable TV,5000.0
+2022-06-11,Norman,ISP,6000.0
